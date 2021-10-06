@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "engines": {
+    "npm": ">=7"
+  },
+  "workspaces": [
+    "./client/libs/projects/*",
+    "./client/application"
+  ]
+}
